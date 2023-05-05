@@ -1,0 +1,2 @@
+char menuprincipal();
+char menuopciones();

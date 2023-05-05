@@ -1,0 +1,2 @@
+void imprimirfactura(float num1, float num2, float num3, float num4, float num5, float subtotal1, float subtotal2, float subtotal3, float subtotal4, float subtotal5);
+float calculosubtotal(float subtotal);
